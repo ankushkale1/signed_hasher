@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Andro Signer\Activity1.cs">
+    <Files>
+      <File FileName="Andro Signer\Activity1.cs" Line="220" Column="39" />
+      <File FileName="f:\VS_2010_project files\signed_hasher\signed_hasher\hasher.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Andro_220Signer AndroidDeviceId-Debug="192.168.43.1:5555" />
+</Properties>
