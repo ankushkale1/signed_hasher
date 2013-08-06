@@ -25,11 +25,15 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
+<<<<<<< HEAD
 _UpgradeReport_Files/*
 hasher.doc
 packages/*
 sources/*
-*.pfx
-*.cer
-*.ppk
-*.pub
+=======
+*.dll
+_UpgradeReport_Files*/
+sources*/
+hasher.doc
+packages/*
+>>>>>>> Github/master
